@@ -4,7 +4,10 @@
 - VueJS
 - Jetstream
 - BootStrap
+- Pusher
 
 ## How To Start? 
 
 > php artisan serve
+
+
